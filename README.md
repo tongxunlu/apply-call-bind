@@ -1,5 +1,5 @@
 # 深入浅出 妙用Javascript中apply、call、bind
-
+http://www.admin10000.com/document/6711.html 详细解释
 ## apply、call用法的简单示例
 ```javascript
 function fruits() {}
